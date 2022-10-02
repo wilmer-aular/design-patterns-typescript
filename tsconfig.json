@@ -15,8 +15,5 @@
   },
   "include": [
     "**.ts"
-  ],
-  "files": [
-    "global.d.ts"
   ]
 }
